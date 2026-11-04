@@ -1,0 +1,19 @@
+OK extra 1 - Cobro m?nimo permitido
+OK extra 2 - Cobro grande con dos decimales
+OK extra 3 - Reintegro m?nimo permitido
+OK extra 4 - Reintegro con tres decimales inv?lido
+OK extra 5 - Reintegro no num?rico inv?lido
+OK extra 6 - Monto en blanco inv?lido
+OK extra 7 - No emite documento estando desconectado
+OK extra 8 - Documento sin referencia rechazado
+OK extra 9 - Segundo certificador FEL operativo
+OK extra 10 - Cobro log?stico v?lido en formato, pero incompatible
+OK extra 11 - Reintegro FEL incompatible
+OK extra 12 - Operaci?n nula rechazada
+OK extra 13 - Referencia nula rechazada
+OK extra 14 - Cobro bloqueado tras desconexi?n
+OK extra 15 - Cobro reanudado tras reconexi?n
+OK extra 16 - Auditor?a no admite modificaci?n externa
+OK extra 17 - Latencia empatada usa ID como desempate
+OK extra 18 - B?squeda ignora espacios alrededor del ID
+TOTAL ADICIONAL: 18 verificaciones correctas.

@@ -1,0 +1,49 @@
+OK 1 - Carga de 10 APIs
+OK 2 - 4 pasarelas
+OK 3 - 4 operadores log?sticos
+OK 4 - 2 certificadores
+OK 5 - B?squeda insensible a may?sculas
+OK 6 - ID inexistente
+OK 7 - Configuraci?n incluye endpoint
+OK 8 - Configuraci?n incluye estado
+OK 9 - Estados desconectados visibles
+OK 10 - Comparable: latencia ascendente
+OK 11 - Menor latencia primero
+OK 12 - Cobro v?lido
+OK 13 - Reintegro v?lido
+OK 14 - Log?stica ignora reintegros
+OK 15 - FEL ignora cobros
+OK 16 - Pago omite documentos
+OK 17 - Gu?a de env?o
+OK 18 - XML FEL
+OK 19 - Rastreo de paquete
+OK 20 - Consulta pasarela degradada
+OK 21 - API desconectada no consulta
+OK 22 - Monto negativo rechazado
+OK 23 - Monto cero rechazado
+OK 24 - M?s de dos decimales rechazados
+OK 25 - Monto no num?rico rechazado
+OK 26 - Referencia vac?a rechazada
+OK 27 - API inexistente manejada
+OK 28 - Auditor?a registra cobro
+OK 29 - Auditor?a vac?a se representa con cero
+OK 30 - equals por identificador
+OK 31 - hashCode consistente
+OK 32 - Cat?logo sin exposici?n mutable
+OK 33 - ID duplicado rechazado
+OK 34 - Nueva startup sin cambiar l?gica central
+OK 35 - Overloading de cobro con String
+OK 36 - Sobrecarga con BigDecimal
+OK 37 - Sobrecarga de consulta sin referencia
+OK 38 - Men? rechaza opci?n no v?lida
+OK 39 - Men? informa b?squeda ausente
+OK 40 - Men? ordena
+OK 41 - Men? cobra
+OK 42 - Men? no falla en reintegro incompatible
+OK 43 - Men? genera FEL
+OK 44 - Men? consulta env?o
+OK 45 - Men? muestra cero en reporte
+OK 46 - Men? termina correctamente
+OK 47 - Men? muestra recuento actualizado
+
+TOTAL: 47 verificaciones correctas.
